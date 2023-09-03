@@ -97,5 +97,9 @@ li a:hover:not(.active) {
   width: fit-content;
 }
 
+.itemStatus th, .itemStatus tr {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
 
 
